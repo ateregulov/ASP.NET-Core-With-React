@@ -2,6 +2,9 @@
   "version": "1.0.0",
   "name": "asp.net",
   "private": true,
+  "scripts": {
+    "webpack": "webpack -w"
+  },
   "dependencies": {
     "react": "^15.3.2",
     "react-dom": "^15.3.2"
